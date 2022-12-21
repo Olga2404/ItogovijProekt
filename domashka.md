@@ -22,3 +22,5 @@
 ***
 
 ### Картинки
+
+![search](/smiles/search.gif "поиск")
